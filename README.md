@@ -10,9 +10,9 @@
       />
     </a>
     
-    <a href="">
-      <img src="./passport.png" style="float: right;" height="300px" alt="passport" />
-    </a>
+  <a href="">
+    <img src="./passport.png" style="float: right;" height="300px" alt="passport" />
+  </a>
   </div>
 
 <br />

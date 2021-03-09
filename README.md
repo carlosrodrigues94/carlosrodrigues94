@@ -2,7 +2,7 @@
 
 ### I´m currently working on Brazil as a Full-stack developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/carlos-rodrigues-4ab066187/)
+[![Linkedin Badge] Carlos Rodrigues](https://www.linkedin.com/in/carlos-rodrigues-4ab066187/)
 
 [![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://www.instagram.com/carloshenriquerodrigues94/)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:carlos.1994hrs@gmail.com)

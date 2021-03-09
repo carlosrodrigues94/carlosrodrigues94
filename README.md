@@ -1,12 +1,18 @@
 ## Hi there, I'm Carlos 👋
 
-
-<a href="">
-<img src="./linked-badge.png" height="350px" style="border-radius: 10px; margin:12px 8px" alt="linked-in" />
-</a>
-<a href="">
-<img src="./passport.png" height="350px" alt="passport"/>
-</a>
+  <div style="display: flex; width: 100%; justify-content: space-evenly">
+    <a href="">
+      <img
+        src="./linked-badge.png"
+        height="350px"
+        style="border-radius: 10px; margin: 12px 8px"
+        alt="linked-in"
+      />
+    </a>
+    <a href="">
+      <img src="./passport.png" height="350px" alt="passport" />
+    </a>
+  </div>
 
 <br />
 <h3>Things I code with</h3>

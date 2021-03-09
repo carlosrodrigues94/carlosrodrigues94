@@ -9,6 +9,7 @@
         alt="linked-in"
       />
     </a>
+    <p style="width:50px"></p>
     <a href="">
       <img src="./passport.png" style="float: right;" height="300px" alt="passport" />
     </a>

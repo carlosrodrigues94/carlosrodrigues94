@@ -5,7 +5,7 @@
       <img
         src="./linked-badge.png"
         height="350px"
-        style="border-radius: 10px; margin: 12px 8px"
+        style="border-radius: 10px; margin-right: 16px"
         alt="linked-in"
       />
     </a>

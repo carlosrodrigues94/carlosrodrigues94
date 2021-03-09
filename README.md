@@ -1,5 +1,16 @@
 ## Hi there, I'm Carlos 👋
-<h3>Things I code with</h3>
+<br />
+  <a href="https://www.linkedin.com/in/carlos-rodrigues-4ab066187/">
+    <img
+      src="./linked-badge.png"
+      height="300px"
+      style="border-radius: 10px; margin-right: 16px"
+      alt="linked-in"
+    />
+  </a>
+<br />
+  <h3>Things I code with</h3>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -21,18 +32,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
   
-  <a href="https://www.linkedin.com/in/carlos-rodrigues-4ab066187/">
-    <img
-      src="./linked-badge.png"
-      height="300px"
-      style="border-radius: 10px; margin-right: 16px"
-      alt="linked-in"
-    />
-  </a>
-    <br />
-  <a href="https://www.linkedin.com/in/carlos-rodrigues-4ab066187/">
-    <img src="./passport.png" style="float: right;" height="200px" alt="passport" />
-  </a>
+
+
   
 
 

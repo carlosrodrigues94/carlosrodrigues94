@@ -20,20 +20,20 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-  <div style="display: flex; width: 100%; justify-content: space-evenly">
-    <a href="">
-      <img
-        src="./linked-badge.png"
-        height="300px"
-        style="border-radius: 10px; margin-right: 16px"
-        alt="linked-in"
-      />
-    </a>
+  
+  <a href="https://www.linkedin.com/in/carlos-rodrigues-4ab066187/">
+    <img
+      src="./linked-badge.png"
+      height="300px"
+      style="border-radius: 10px; margin-right: 16px"
+      alt="linked-in"
+    />
+  </a>
     
-  <a href="">
+  <a href="https://www.linkedin.com/in/carlos-rodrigues-4ab066187/">
     <img src="./passport.png" style="float: right;" height="300px" alt="passport" />
   </a>
-  </div>
+  
 
 <br />
 

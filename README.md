@@ -1,11 +1,8 @@
 ## Hi there, I'm Carlos 👋
 
 <p>
-  
-```` 
-  I´m a <FullStack/> developer working in Brasil
-  
-````  
+
+> I´m a <FullStack/> developer working in Brasil
 
 <p>
 <br />

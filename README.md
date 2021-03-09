@@ -1,8 +1,12 @@
 ## Hi there, I'm Carlos 👋
 
-### I´m currently working on Brazil as a Full-stack developer
 
-
+<a href="">
+<img src="./linked-badge.png" style="border-radius:10px" margin="12px 8px"/>
+</a>
+<a href="">
+<img src="./passport.png" width="310px/>
+</a>
 
 <br />
 <h3>Things I code with</h3>

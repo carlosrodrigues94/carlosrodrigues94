@@ -31,7 +31,7 @@
   </a>
     <br />
   <a href="https://www.linkedin.com/in/carlos-rodrigues-4ab066187/">
-    <img src="./passport.png" style="float: right;" height="300px" alt="passport" />
+    <img src="./passport.png" style="float: right;" height="200px" alt="passport" />
   </a>
   
 

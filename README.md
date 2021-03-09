@@ -10,7 +10,7 @@
       />
     </a>
     <a href="">
-      <img src="./passport.png" height="350px" alt="passport" />
+      <img src="./passport.png" style="margin-left: 16px" height="350px" alt="passport" />
     </a>
   </div>
 

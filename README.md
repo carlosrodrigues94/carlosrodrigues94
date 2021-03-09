@@ -4,13 +4,13 @@
     <a href="">
       <img
         src="./linked-badge.png"
-        height="350px"
+        height="300px"
         style="border-radius: 10px; margin-right: 16px"
         alt="linked-in"
       />
     </a>
     <a href="">
-      <img src="./passport.png" style="float: right;" height="350px" alt="passport" />
+      <img src="./passport.png" style="float: right;" height="300px" alt="passport" />
     </a>
   </div>
 

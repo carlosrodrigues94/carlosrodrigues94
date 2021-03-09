@@ -29,11 +29,11 @@
       alt="linked-in"
     />
   </a>
-    
+    <br />
   <a href="https://www.linkedin.com/in/carlos-rodrigues-4ab066187/">
     <img src="./passport.png" style="float: right;" height="300px" alt="passport" />
   </a>
   
 
-<br />
+
 

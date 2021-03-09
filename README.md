@@ -1,4 +1,13 @@
 ## Hi there, I'm Carlos 👋
+
+<p>
+  
+```` 
+  I´m a <FullStack/> developer working in Brasil
+  
+````  
+
+<p>
 <br />
   <a href="https://www.linkedin.com/in/carlos-rodrigues-4ab066187/">
     <img

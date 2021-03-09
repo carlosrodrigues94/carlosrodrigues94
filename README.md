@@ -1,6 +1,6 @@
 ## Hi there, I'm Carlos 👋
 
-  <div style="display: inline; width: 100%; justify-content: space-evenly">
+  <div style="display: block; width: 100%; justify-content: space-evenly">
     <a href="">
       <img
         src="./linked-badge.png"

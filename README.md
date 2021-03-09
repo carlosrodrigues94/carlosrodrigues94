@@ -2,10 +2,10 @@
 
 
 <a href="">
-<img src="./linked-badge.png" style="border-radius: 10px; margin="12px 8px" />
+<img src="./linked-badge.png" style="border-radius: 10px; margin:12px 8px" alt="linked-in" />
 </a>
 <a href="">
-<img src="./passport.png" width="310px/>
+<img src="./passport.png" width="310px" alt="passport"/>
 </a>
 
 <br />

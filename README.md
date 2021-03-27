@@ -2,7 +2,7 @@
 
 <p>
 
-> I´m a <FullStack/> developer working in Brasil
+> I´m a Sofware Developer working in Brasil
 
 <p>
 

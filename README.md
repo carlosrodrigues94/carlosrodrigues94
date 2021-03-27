@@ -5,16 +5,7 @@
 > I´m a <FullStack/> developer working in Brasil
 
 <p>
-<br />
-  <a href="https://www.linkedin.com/in/carlos-rodrigues-4ab066187/">
-    <img
-      src="./linked-badge.png"
-      height="300px"
-      style="border-radius: 10px; margin-right: 16px"
-      alt="linked-in"
-    />
-  </a>
-<br />
+
   <h3>Things I code with</h3>
 
 <p>
